@@ -1,3 +1,8 @@
+#include <iostream>
+#include "functions.h"
+
+using namespace std;
+
 bool isSafe(int board[N][N], int row, int col)
 
 {

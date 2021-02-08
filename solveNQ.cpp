@@ -1,3 +1,8 @@
+#include <iostream>
+#include "functions.h"
+
+using namespace std;
+
 bool solveNQ()
 
 {
